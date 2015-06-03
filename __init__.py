@@ -1,4 +1,3 @@
-print 'hi'
 __all__ = [
     'AbstractBasicAuthHandler',
     'AbstractDigestAuthHandler',
